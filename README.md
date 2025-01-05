@@ -15,3 +15,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sahejadkadivar&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<h2 align="center">Total Visits Recorded Till Today:</h2>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/sahejadkadivar/count.svg?"  />
+</div>
